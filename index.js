@@ -16,16 +16,15 @@ function add2(n) {
   return n + two
 
   // Feel free to move things around!
-  
+
 }
 
- 
+
 function myAnimal () {
   const animal = "dog";
- 
+
   function yourAnimal () {
     const otheranimal = "cat";
- 
+
     return myAnimal = yourAnimal;
   }
- 
